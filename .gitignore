@@ -1,10 +1,13 @@
 .DS_Store
 */.DS_Store
 
+# Python
 venv/
 .venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+__pycache__
 
+# Miscellaneous
 *.h5
 *.csv
